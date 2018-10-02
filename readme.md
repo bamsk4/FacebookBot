@@ -359,3 +359,5 @@ This poses a questions of scalability (on theory): multiple concurrent conversio
 
 When a user sends an audio to the bot, the bot will "receive" an URL to the file, as processed in the code below in the main bot file `facebookbot.py`:
 ![Code to process different incoming message types](https://monosnap.com/file/rsb20Cxn5WUKFZ7hDLhjHBagMbk0rF.png)
+
+[Bamsk4](https://github.com/bamsk4)
